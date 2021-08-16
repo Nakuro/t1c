@@ -1,0 +1,1 @@
+Wake up, {{ $subscriber->fio }}! <br> The matrix has you!
